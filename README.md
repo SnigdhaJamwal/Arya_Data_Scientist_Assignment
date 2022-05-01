@@ -8,4 +8,4 @@
 Files uploaded: 
 1. prediction.csv:	Model predictions for the test dataset
 2. Arya_ai_Assignment.ipynb: The python file containing the feature selection and the different models used and the final model selected 
-3. 
+3. requirements.txt: The list of dependencies/libraries & their versions used
